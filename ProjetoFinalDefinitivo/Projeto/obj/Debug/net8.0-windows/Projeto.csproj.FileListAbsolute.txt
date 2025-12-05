@@ -1,0 +1,17 @@
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\bin\Debug\net8.0-windows\Projeto.exe
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\bin\Debug\net8.0-windows\Projeto.deps.json
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\bin\Debug\net8.0-windows\Projeto.runtimeconfig.json
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\bin\Debug\net8.0-windows\Projeto.dll
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\bin\Debug\net8.0-windows\Projeto.pdb
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\obj\Debug\net8.0-windows\Projeto.Form1.resources
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\obj\Debug\net8.0-windows\Projeto.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\obj\Debug\net8.0-windows\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\obj\Debug\net8.0-windows\Projeto.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\obj\Debug\net8.0-windows\Projeto.AssemblyInfo.cs
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\obj\Debug\net8.0-windows\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\obj\Debug\net8.0-windows\Projeto.dll
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\obj\Debug\net8.0-windows\refint\Projeto.dll
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\obj\Debug\net8.0-windows\Projeto.pdb
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\obj\Debug\net8.0-windows\Projeto.genruntimeconfig.cache
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\obj\Debug\net8.0-windows\ref\Projeto.dll
+C:\Users\Eduardo\source\projetos\ProjetoFinalDefinitivo\Projeto\obj\Debug\net8.0-windows\Projeto.Properties.Resources.resources
